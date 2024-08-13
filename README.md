@@ -6,9 +6,6 @@
 
   <p align="center">
     I'm studying MLOps! 
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Cheer For Me!</strong></a>
-    <br />
 </div>
 
 <!-- TABLE OF CONTENTS -->
