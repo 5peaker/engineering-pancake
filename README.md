@@ -62,12 +62,15 @@ This is currently just a placeholder, so you don't need to look on this! (Link i
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
+<!-- ADDENDUM -->
+## Addendum
 
-Jinseong Choi - [@NotaSNSUser](https://twitter.com/gonna_make_one_for_it_someday) - jsc.tiding1@gmail.com
+#### My journey with the pancake is now done! Check the cupcake for further updates.
 
-Project Link: [https://github.com/5peaker/NoProjectNowSadly](https://github.com/5peaker/not-yet-project-made)
+<b>Link for the Cupcake</b>: 
+[https://github.com/5peaker/engineering-cupcake](https://github.com/5peaker/engineering-cupcake)
+
+Meet Me There! 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
