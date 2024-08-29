@@ -41,7 +41,7 @@ Thanks to all the people help me learning valuable knowledges!
 
 Please look my profile README if you have more questions. I'll synchronize contents in both files. 
 
-<!-- BUY ME A COFFEE -->]
+<!-- BUY ME A COFFEE -->
 
 ### Buy me a coffee
 
@@ -54,7 +54,7 @@ This is currently just a placeholder, so you don't need to look on this! (Link i
 
 - [x] Be friendly with the tools I need (like: Docker, Kubernetes)
 - [x] Learning additional Python modules (like: Pandas, Scikit-Learn)
-- [ ] Begin a project on my own 
+- [X] Begin a project on my own 
 - [ ] Finish the project & Add "components" document for further supports and possibilities
 - [ ] Start a journey as the engineer
     - [ ] Working on a company
